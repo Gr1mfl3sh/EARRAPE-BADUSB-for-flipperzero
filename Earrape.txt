@@ -1,7 +1,7 @@
 REM Title: LOUDSONG TROLL + LOCKS DEVICE
 REM Creator: Grim<3
 REM What this script does is open powershell runs a command that makes the targets volume to max locks the targets device and plays LOUD song or sound
-REM For: Win10, explorer{default browser}(you can change to your desired browser by changing "explorer" to the name of your browser)
+REM For: Win10 (will use default browser)
 GUI R 
 DELAY 100
 STRING Powershell.exe
@@ -13,7 +13,7 @@ DELAY 100
 STRING Set-Speaker -Volume 50
 ENTER 
 DELAY 100
-STRING start explorer.exe YOUR YOUTUBE LINK
+STRING start YOUR YOUTUBE LINK WITH THE HTTPS://
 ENTER
 DELAY 100
 GUI L
