@@ -1,6 +1,6 @@
-REM Title: LOUDSONG TROLL + LOCKS DEVICE
+REM Title: EARRAPE_TROLL + LOCKS DEVICE
 REM Creator: Grim<3
-REM What this script does is open powershell runs a command that makes the targets volume to max locks the targets device and plays LOUD song or sound
+REM What this script does is open powershell runs a command that makes the targets volume to max locks the targets device and plays song or sound from a youtube link 
 REM For: Win10 (will use default browser)
 GUI R 
 DELAY 100
